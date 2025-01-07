@@ -27,7 +27,7 @@
 ###
 
 [![Face Segmentation](https://svg.bookmark.style/api?url=https://github.com/Mikzarjr/FaceSegmentation&mode=light&style=horizontal)](https://github.com/Mikzarjr/FaceSegmentation)
-[![DeepFake Detection](https://svg.bookmark.style/api?url=https://github.com/DanBel1kov/DeepFake-Detection&mode=light&style=horizontal)](https://github.com/DanBel1kov/DeepFake-Detection)
+[![Telegram Bot](https://svg.bookmark.style/api?url=https://https://github.com/mikzarjr/tgbot_tsn_sadkvartal&mode=light&style=horizontal)](https://github.com/mikzarjr/tgbot_tsn_sadkvartal)
 
 
 
