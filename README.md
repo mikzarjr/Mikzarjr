@@ -25,7 +25,14 @@
   <img src="icons/seaborn.svg" height="50" alt="py"/>
   <img width="12" />
 
+  <img src="icons/sqlalchemy.png" height="50" alt="py"/>
+  <img width="12" />
+  <img src="icons/postgres.png" height="50" alt="py"/>
+  <img width="12" />
+
   <img src="icons/sklearn.png" height="50" alt="py"/>
+  <img width="12" />
+  <img src="icons/huggingface.png" height="50" alt="py"/>
   <img width="12" />
   <img src="icons/pytorch.png" height="50" alt="py"/>
   <img width="12" />
