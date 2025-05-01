@@ -60,6 +60,6 @@
 
 ###
 
-[![Face Segmentation](https://svg.bookmark.style/api?url=https://github.com/Mikzarjr/FaceSegmentation&mode=light&style=horizontal)](https://github.com/Mikzarjr/FaceSegmentation)
+[![ml_from_scratch](https://svg.bookmark.style/api?url=https://github.com/Mikzarjr/ml_from_scratch&mode=light&style=horizontal)](https://github.com/Mikzarjr/ml_from_scratch)
 
 
