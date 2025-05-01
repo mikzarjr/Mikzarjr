@@ -61,7 +61,5 @@
 ###
 
 [![Face Segmentation](https://svg.bookmark.style/api?url=https://github.com/Mikzarjr/FaceSegmentation&mode=light&style=horizontal)](https://github.com/Mikzarjr/FaceSegmentation)
-[![Telegram Bot](https://svg.bookmark.style/api?url=https://https://github.com/mikzarjr/tgbot_tsn_sadkvartal&mode=light&style=horizontal)](https://github.com/mikzarjr/tgbot_tsn_sadkvartal)
-
 
 
