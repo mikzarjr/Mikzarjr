@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="icons/numpy.svg" height="50" alt="py"/>
   <img width="12" />
+  <img src="icons/tableau.svg" height="50" alt="py"/>
+  <img width="12" />
   <img src="icons/matplotlib.png" height="50" alt="py"/>
   <img width="12" />
   <img src="icons/seaborn.svg" height="50" alt="py"/>
@@ -28,6 +30,11 @@
   <img src="icons/sqlalchemy.png" height="50" alt="py"/>
   <img width="12" />
   <img src="icons/postgres.png" height="50" alt="py"/>
+  <img width="12" />
+
+  <img src="icons/docker.png" height="50" alt="py"/>
+  <img width="12" />
+  <img src="icons/git.png" height="50" alt="py"/>
   <img width="12" />
 
   <img src="icons/sklearn.png" height="50" alt="py"/>
